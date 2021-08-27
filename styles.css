@@ -6,8 +6,7 @@ body {
 }
 
 .btn-container {
-  padding: 5rem;
-  background-color: red;
+  padding: 2rem;
 }
 
 .btn-nuxtjs {
@@ -22,8 +21,18 @@ body {
   color: white;
   border-radius: 0.25rem;
   font-weight: 500;
+  text-transform: uppercase;
 }
 
 .btn-nuxtjs:hover {
   background-color: #54e0a1;
+}
+
+.white {
+  background-color: #edf2f7;
+  color: #2f495e;
+}
+
+.white:hover {
+  background-color: #e2e8f0;
 }
